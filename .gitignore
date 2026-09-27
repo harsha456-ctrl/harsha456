@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/heart_failure_clinical_records_dataset.csv
